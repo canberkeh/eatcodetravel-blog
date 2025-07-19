@@ -4,7 +4,7 @@ title: "Eat Code Travel Blog"
 description: "Yemek, seyahat ve çok nadiren de kodlama."
 logo: 'assets/images/ect-logo.png'
 favicon: 'assets/images/ect-logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /eatcodetravel-blog
 disqus: 'eatcodetravel-1'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]

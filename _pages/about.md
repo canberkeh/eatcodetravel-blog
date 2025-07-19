@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Hakkımızda - Eat Code Travel
 permalink: /about
 comments: true
 ---
@@ -8,28 +8,36 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p><strong>Eat Code Travel</strong>, yazılım geliştiricisi bir çiftin dünya üzerindeki yolculuklarını, kodlama deneyimlerini ve kültürel keşiflerini paylaştığı bir blogdur. Yolda öğrendiğimiz teknolojileri, tattığımız lezzetleri ve karşılaştığımız ilginç yerleri burada bulabilirsiniz.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>Bu Blogda Neler Var?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<ul>
+  <li>🌍 Gezdiğimiz ülkelerden rehberler ve fotoğraflar</li>
+  <li>💻 Kodlama ve yazılım üzerine pratik içerikler</li>
+  <li>🍜 Dünya mutfağından deneyimler</li>
+  <li>📸 YouTube & Instagram içeriklerimizin detayları</li>
+</ul>
+
+<h4>İletişim</h4>
+
+<p>Bize e-posta göndermek isterseniz: <a href="mailto:eatcodetravel.social@gmail.com">eatcodetravel.social@gmail.com</a></p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<h5>Bizi Destekleyin ☕</h5>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<p>Bize bir kahve ısmarlayarak destek olabilirsiniz.</p>
+
+<a target="_blank" href="https://www.buymeacoffee.com/eatcodetravel" class="btn btn-danger">Bana bir kahve ısmarla</a> 
 
 </div>
+
 </div>
 </div>

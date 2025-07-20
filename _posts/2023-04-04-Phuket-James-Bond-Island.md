@@ -7,6 +7,49 @@ categories: [ Tayland, Seyahat ]
 image: /assets/images/2023/phuket/james_bond_island/jb_3.jpg
 ---
 
+James Bond Adası, Tayland’ın Phang Nga Körfezi’nde yer alan, sinema dünyası sayesinde ünlenmiş eşsiz bir doğa harikasıdır. 1974 yapımı *"The Man with the Golden Gun"* (Altın Tabancalı Adam) filminde geçen bu ada, özellikle **Ko Tapu** adı verilen ikonik kaya oluşumuyla bilinir.
+
+## 📍 Nerede?
+
+James Bond Adası, **Phuket** ve **Krabi** gibi popüler Tayland şehirlerine oldukça yakın konumda bulunur. Phang Nga Körfezi içinde yer alan bu doğal oluşum, çevresindeki kalker adaları ve mağaralarla birlikte harika bir manzara sunar.
+
+## 🚤 Nasıl Gidilir?
+
+Ada ziyaretleri genellikle aşağıdaki şehirlerden günlük turlar şeklinde düzenlenir:
+
+- Phuket
+- Krabi
+- Phang Nga
+
+Kullanılan ulaşım araçları:
+- Sürat tekneleri (speed boat)
+- Uzun kuyruklu tekneler (long-tail boat)
+- Deniz kanoları (bazı mağara gezileri için)
+
+## 🗺️ Tipik Tur İçeriği
+
+| Aktivite               | Açıklama                                                                 |
+|------------------------|--------------------------------------------------------------------------|
+| ⛰️ James Bond Adası     | Ko Tapu kayalığını ve sahilini ziyaret                                   |
+| 🛶 Kano Turu            | Panak ve Hong adalarında mağara ve lagün gezisi                         |
+| 🥥 Koh Panyee           | Su üstünde kurulu balıkçı köyü gezisi ve öğle yemeği                    |
+| 🏖️ Plaj Zamanı         | Naka Adası ya da çevredeki plajlarda serbest zaman                      |
+
+## 🔎 Bilinmesi Gerekenler
+
+- **Ko Tapu’ya çıkmak yasaktır**, sadece yakından fotoğraf çekilebilir.
+- **Kalabalık olabilir**, sabah erken saatlerde gitmek tavsiye edilir.
+- **Kano turu**, mağaraların içini ve lagünleri keşfetme imkânı sunar.
+
+## 🎒 Yanınıza Almanız Gerekenler
+
+- Güneş kremi, şapka ve mayo
+- Su geçirmez çanta
+- Yedek kıyafet ve havlu
+- Bir miktar nakit (yerel alışveriş için)
+
+---
+
 🤭 Bu tur Phuket’te konaklarken mutlaka yapılması gereken aktivitelerden biri, e biz de eksik kalmadık.
 
 💸 Önümüze çıkan tur standlarından biri ile müthiş bir pazarlık sonucunda 3500’lerden başlayan fiyatları kişi başı **1500 baht** olarak sabitledik ve satın aldık. Bu fiyat içerisinde hız teknesi ile gezeceğimiz tur rotası dışında şunlar vardı:
@@ -140,10 +183,10 @@ Phuket ya da Krabi’ye gelirseniz bu tür turları kaçırmayın! Özellikle **
 
 Phuket gezimizi izlemek için aşağıdaki videolarımıza göz atabilirsiniz:
 
-- [1. Bölüm - Film sahneleriyle James Bond Adası Turu | Suyun üstündeki futbol sahasıyla Panyee Adası](https://www.youtube.com/watch?v=DR4P8ipNEpo)
-- [2. Bölüm - Pazarlık yapmadan bir şey almayın! Phuket Old Town | Night Market](https://www.youtube.com/watch?v=nzt8rVw41ck)
-- [3. Bölüm - Phuket Gezi Rehberi | Yerel Lezzetler, YOGA ve SÖRF denedik!](https://www.youtube.com/watch?v=8bmDcmMuz3M)
-- [4. Bölüm - Phuket'te Ucuz Tatil Önerileri | Vizesiz Tayland](https://www.youtube.com/watch?v=0buG3ckLzy4k)
+- [1. Bölüm - Film sahneleriyle James Bond Adası Turu - Suyun üstündeki futbol sahasıyla Panyee Adası](https://www.youtube.com/watch?v=DR4P8ipNEpo)
+- [2. Bölüm - Pazarlık yapmadan bir şey almayın! Phuket Old Town Night Market](https://www.youtube.com/watch?v=nzt8rVw41ck)
+- [3. Bölüm - Phuket Gezi Rehberi - Yerel Lezzetler, YOGA ve SÖRF denedik!](https://www.youtube.com/watch?v=8bmDcmMuz3M)
+- [4. Bölüm - Phuket'te Ucuz Tatil Önerileri - Vizesiz Tayland](https://www.youtube.com/watch?v=0buG3ckLzy4k)
 
 > YouTube kanalımıza abone olmayı unutmayın: **[Eat Code Travel](https://www.youtube.com/@eat.code.travel)** 🛵🌍💻
 > 

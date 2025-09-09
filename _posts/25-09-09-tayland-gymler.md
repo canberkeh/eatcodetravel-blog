@@ -4,16 +4,11 @@ title: "Tayland’da Deneyimlediğim Muay Thai ve MMA Gym'leri"
 author: Berke
 categories: [Seyahat, Tayland, Spor]
 tags: [Muay Thai, MMA, Gym, Tayland, Seyahat]
+image: /assets/images/2025/muaythai/main.jpg
 description: "Tayland’da seyahat ederken farklı Muay Thai ve MMA gym’lerini deneyimledik. İşte tecrübelerimiz ve önerilerimiz."
 featured: true
 hidden: false
 ---
-
-<div style="flex: 1 1 200px; margin: 24px 0;">
-  <a href="{{ site.baseurl }}/assets/images/2025/muaythai/main.jpg" target="_blank" rel="noopener">
-    <img src="{{ site.baseurl }}/assets/images/2025/muaythai/main.jpg" alt="Main Muay Thai" style="max-width: 500px; width: 100%; border-radius: 8px; cursor: zoom-in;">
-  </a>
-</div>
 
 Tayland seyahatimiz sırasında, spor rutinimizi bozmadan farklı bölgelerdeki **Muay Thai ve MMA gym’lerini** deneme fırsatımız oldu.  
 Bu seyahat **2025 yılının Ocak, Şubat ve Mart aylarında** gerçekleşti ve üç ay boyunca farklı şehirlerde birçok spor salonunu keşfettik.  
